@@ -1,4 +1,4 @@
-# IMDB-Movie-Analysis-Dashboard
+# IMDB-Analysis-Dashboard
 A Tableau Dashboard Project Analyzing The Top 1000 IMDb Movies To Discover Genre Trends, Director Performance, and Movie Release Patterns.
 
 <img width="975" height="520" alt="image" src="https://github.com/user-attachments/assets/00390878-1322-450a-a934-98a18b109d44" />
